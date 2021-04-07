@@ -1,4 +1,4 @@
-# Quem eu sou? 👨
+# Quem eu sou? 👦
 * 👨‍🎓 Bacharel em Estatística - Universidade Estadual de Campinas (UNICAMP);
 * 👨‍💻 Data Scientist;
 * 📊 Bioestatístico.
